@@ -12,7 +12,40 @@ This project implements character-level language modeling using Vanilla RNN and 
 ### Loss Plots
 ![Figure_2](https://github.com/RoznBoy/DeepLearning/assets/154126402/f962a951-140a-4424-9394-aeb2c65f5bed)
 
+### generate.py result
+ROMEO: go they all, though with us. ID:
+Veremany we do reposed
+That will remain home: and
+There is their to
 
+Temperature: 0.5
+ROMEO: go in your way, they do not know toad.
+
+CORIOLANUS:
+Why, so he doth she speak.
+
+First Murderer:
+How 
+
+Temperature: 1.0
+ROMEO: 't thy siders for his
+in the tempest virtue.
+
+Second Citizen:
+Trues, sweet ageas.
+
+CORIOLANUS:
+O mom
+
+Temperature: 1.5
+ROMEO: yet no more.
+
+MENENIUS:
+You know now the truth!
+
+Second Officer:
+Do ye scourge to prows a chief
+To s
 
 ### Analysis
 The results show that the LSTM model generally performs better than the Vanilla RNN model in terms of validation loss. The average loss values for both training and validation datasets are plotted in the figure above.
