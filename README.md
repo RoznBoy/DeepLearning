@@ -10,7 +10,8 @@ This project implements character-level language modeling using Vanilla RNN and 
 
 ## Results
 ### Loss Plots
-![Loss Plot](loss_plot.png)
+![Figure_1](https://github.com/RoznBoy/DeepLearning/assets/154126402/b2460470-654a-4f5e-9490-a038e1ddff07)
+
 
 ### Analysis
 The results show that the LSTM model generally performs better than the Vanilla RNN model in terms of validation loss. The average loss values for both training and validation datasets are plotted in the figure above.
