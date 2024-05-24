@@ -10,7 +10,8 @@ This project implements character-level language modeling using Vanilla RNN and 
 
 ## Results
 ### Loss Plots
-![Figure_1](https://github.com/RoznBoy/DeepLearning/assets/154126402/b2460470-654a-4f5e-9490-a038e1ddff07)
+![Figure_2](https://github.com/RoznBoy/DeepLearning/assets/154126402/f962a951-140a-4424-9394-aeb2c65f5bed)
+
 
 
 ### Analysis
